@@ -38,9 +38,9 @@
 
 <a href="https://star-history.com/#Flowseal/zapret-discord-youtube&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=fallawerr-p/dpibypass.sh&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=fallawerr-p/dpibypass.sh&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=fallawerr-p/dpibypass.sh&type=Date" />
  </picture>
 </a>
 
