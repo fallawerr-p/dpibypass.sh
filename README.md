@@ -18,7 +18,11 @@
 
 4. Распакуйте содержимое архива по пути, который не содержит кириллицу/спец. символы
 
-5. Запустите нужный файл
+5. Выполняйте эти команды по очереди:
+- chmod +x dpibypass.sh
+- sudo ./dpibypass.sh install
+- sudo ./dpibypass.sh start
+- sudo ./dpibypass.sh test discord.com
 
 
 ### Все проблемы можно создать в issues
